@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+  position: relative;
+  min-height: 100vh;
+  min-width: 100vw;
+  background: linear-gradient(to bottom right, rgb(169, 39, 255), rgb(86, 165, 255));
+  color: white;
+}
+
+a{
+  color: white;
+  font-size: smaller;
+}
